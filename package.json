@@ -1,0 +1,21 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "clash-of-clans-api": "^0.4.0",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "fbgraph": "^1.4.1",
+    "mongoose": "^5.0.2",
+    "morgan": "^1.9.0",
+    "request": "^2.83.0"
+  }
+}
